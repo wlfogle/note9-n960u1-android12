@@ -1,0 +1,19 @@
+# Note 9 (crown) Download Links
+
+## TWRP Recovery:
+https://dl.twrp.me/crown/
+
+## LineageOS 19.1 (Android 12L):
+https://download.lineageos.org/crown
+
+## PixelExperience:
+https://download.pixelexperience.org/crown
+
+## MindTheGApps (for LineageOS):
+https://androidfilehost.com/?w=files&flid=322935
+
+## Magisk (latest):
+https://github.com/topjohnwu/Magisk/releases
+
+## Stock Firmware (if recovery needed):
+https://sammobile.com/samsung/galaxy-note-9/firmware/

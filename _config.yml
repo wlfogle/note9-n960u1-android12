@@ -1,0 +1,44 @@
+title: "SM-N960U1 Android 12+ Guide"
+description: "Complete guide to install Android 12+ on Samsung Galaxy Note 9 US Unlocked"
+baseurl: "" 
+url: "https://yourusername.github.io/note9-n960u1-android12"
+author: "SM-N960U1 Community"
+
+# GitHub Pages settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - docs/installation-guide.md
+  - docs/supported-roms.md
+  - scripts/setup-arch.sh
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+
+# Exclude from processing
+exclude:
+  - downloads/
+  - device_info/
+  - .git/
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# SEO
+google_analytics: # Add your tracking ID if needed
+lang: en_US

@@ -1,0 +1,22 @@
+# Quick Flash Guide for SM-N960U1
+
+## Prerequisites:
+1. ✅ USB Debugging enabled
+2. ✅ Device recognized by Heimdall
+3. ✅ TWRP downloaded
+4. ✅ ROM ZIP downloaded  
+5. ✅ Backup created
+
+## Flash Process:
+1. Boot to Download Mode: Vol Down + Bixby + Power
+2. Flash TWRP: heimdall flash --RECOVERY twrp-crownqltesq.img --no-reboot
+3. Boot to TWRP: Vol Up + Bixby + Power (immediately after flash)
+4. In TWRP: Wipe > Advanced > Select System, Data, Cache, Dalvik
+5. Install ROM ZIP file
+6. Install GApps (if needed)
+7. Reboot > System
+
+## If something goes wrong:
+- Download Mode: Vol Down + Bixby + Power
+- Flash stock firmware using Heimdall
+- Stock firmware: sammobile.com or samsung-firmware.org

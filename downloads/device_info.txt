@@ -1,0 +1,5 @@
+Device: Samsung Galaxy Note 9
+Model: SM-N960U1
+Serial: RF8KB0T1K9M
+Codename: crownqltesq (for US variants)
+Bootloader: Factory unlocked (no OEM unlock needed)

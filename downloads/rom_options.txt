@@ -1,0 +1,20 @@
+# SM-N960U1 ROM Options (as of 2024/2025)
+
+## 1. LineageOS-based ROMs:
+- Check XDA forums for unofficial LineageOS builds
+- Some maintainers create U1-specific builds
+
+## 2. PixelExperience:
+- Often has N960U1 support
+- Check: https://download.pixelexperience.org/
+
+## 3. AOSP-based ROMs:
+- Many support both crown and crownqltesq
+- Check XDA Developers forum
+
+## 4. Stock-based Custom ROMs:
+- OneUI-based customs may be safer
+- Less chance of hardware issues
+
+## XDA Forum for your device:
+https://forum.xda-developers.com/t/samsung-galaxy-note-9-sm-n960u-u1.3834787/

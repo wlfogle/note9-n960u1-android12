@@ -1,0 +1,58 @@
+# Downloaded ROM files and recovery images
+downloads/recovery/*.img
+downloads/roms/*.zip
+downloads/tools/*.tar
+downloads/backups/
+
+# Device-specific files
+device_info/device_props.txt
+device_info/*backup*
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Archives
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.img
+
+# Backup files
+*backup*
+*.bak
+
+# Local environment files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+.bundle/
+vendor/
+Gemfile.lock
