@@ -113,7 +113,7 @@
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/note9-n960u1-android12.git
+git clone https://github.com/wlfogle/note9-n960u1-android12.git
 cd note9-n960u1-android12
 
 # Run setup script (Arch/Manjaro/Garuda)
