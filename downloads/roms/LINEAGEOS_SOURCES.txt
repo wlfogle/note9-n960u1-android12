@@ -1,0 +1,27 @@
+# LineageOS Options for SM-N960U1
+
+## Unofficial LineageOS Builds:
+1. **XDA Forums - Most Active**
+   - https://forum.xda-developers.com/t/samsung-galaxy-note-9-sm-n960u-u1.3834787/
+   - Search for "LineageOS 20" or "LineageOS 21" threads
+   - Look for recent builds (2024/2025)
+
+2. **GitHub Releases**
+   - Search GitHub for "lineageos_crown" or "lineageos_crownqltesq"
+   - Look for device-specific repositories
+   - Download latest nightly builds
+
+3. **Alternative AOSP ROMs** (if LineageOS unavailable):
+   - PixelExperience: Often has Note 9 support
+   - crDroid: Good customization options
+   - ArrowOS: Clean AOSP experience
+
+## What to Download:
+- File name: lineage-21.0-*-crown.zip (or similar)
+- Size: ~1-2GB
+- Date: Recent (2024/2025)
+
+## Verify Before Flashing:
+- Check XDA thread for latest working build
+- Read recent user feedback
+- Ensure it's for SM-N960U1 (not SM-N960F)

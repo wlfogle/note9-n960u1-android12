@@ -1,0 +1,26 @@
+# GApps Options for LineageOS 21 (Android 14)
+
+## Recommended: MindTheGApps
+- **Size:** ~600MB
+- **Compatibility:** Excellent with LineageOS
+- **Download:** https://androidfilehost.com/?w=files&flid=322935
+- **Version:** 14.0 ARM64
+- **File:** MindTheGapps-14.0.0-arm64-*.zip
+
+## Alternative: NikGApps
+- **Size:** ~400MB (Core package)
+- **Customizable:** Multiple variants available
+- **Download:** https://nikgapps.com/
+- **Recommended:** Core or Basic package
+
+## Alternative: OpenGApps (if available)
+- **Size:** Variable (Nano: ~150MB)
+- **Download:** https://opengapps.org/
+- **Architecture:** arm64
+- **Android:** 14.0
+- **Variant:** nano or micro
+
+## Installation Notes:
+- Flash immediately after ROM (don't reboot first)
+- Wipe dalvik cache after flashing
+- First boot will take 10-15 minutes

@@ -1,0 +1,21 @@
+# TWRP Manual Download Instructions for SM-N960U1
+
+Due to automated download limitations, please manually download TWRP:
+
+## Option 1: XDA Forums
+1. Go to: https://forum.xda-developers.com/t/recovery-official-twrp-for-galaxy-note-9-exynos-snapdragon.3834787/
+2. Look for SM-N960U1 or "crown" builds
+3. Download latest TWRP .img file
+4. Save as: recovery/twrp-crown.img
+
+## Option 2: TWRP Official (if available)
+1. Go to: https://twrp.me/samsung/
+2. Look for Galaxy Note 9 variants
+3. Download for "crown" or "crownqltesq"
+
+## Option 3: Lineage Recovery
+If TWRP isn't available, LineageOS recovery can be used:
+1. Download from LineageOS builds
+2. Usually named: lineage-XX.X-recovery-crown.img
+
+File should be ~30-50MB in size.
