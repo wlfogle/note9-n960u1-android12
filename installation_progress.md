@@ -12,9 +12,9 @@
 - [x] ✅ Tools installed (Heimdall, ADB, Fastboot)
 - [x] ✅ USB connection established
 - [x] ✅ MTP access working
-- [ ] 🔄 **CURRENT:** Enable USB Debugging
-- [ ] ⏳ Verify ADB connection
-- [ ] ⏳ Download required files
+- [x] ✅ Enable USB Debugging
+- [x] ✅ **ADB Connected:** 2aaaca00251c7ece
+- [ ] 🔄 **CURRENT:** Download required files
 
 ### **PHASE 2: File Downloads**
 - [ ] ⏳ TWRP Recovery (crownqltesq)
