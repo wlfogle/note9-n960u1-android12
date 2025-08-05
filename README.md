@@ -48,6 +48,41 @@
 
 ---
 
+## 🛠️ **NEW: Firmware Modification Toolkit**
+
+Complete toolkit for creating custom rooted firmware packages:
+
+### **📁 firmware_modification/ Directory:**
+- **modify_firmware.sh** - Main firmware modification script
+- **AIK-Linux/** - Android Image Kitchen for boot image manipulation
+- **Magisk-v29.0.apk** - Latest Magisk APK for root management
+- **download_firmware_direct.sh** - Direct firmware download utility
+- **FIRMWARE_MODIFICATION_GUIDE.md** - Comprehensive modification guide
+
+### **✨ Features:**
+- ✅ **Automatic LZ4 decompression** of Samsung firmware
+- ✅ **Boot image modification** with ADB root enabled
+- ✅ **Init.d support** for custom initialization scripts
+- ✅ **Optional debloating** - removes Samsung bloatware
+- ✅ **Safe packaging** with MD5 checksums and recovery options
+- ✅ **Error handling** and comprehensive logging
+
+### **🚀 Quick Usage:**
+```bash
+cd firmware_modification/
+./download_firmware_direct.sh    # Download stock firmware
+./modify_firmware.sh             # Create rooted firmware package
+# Flash the generated CUSTOM_FIRMWARE_SM-N960U1/ package
+```
+
+### **⚠️ Important Notes:**
+- Creates **rooted firmware** with Magisk integration
+- **Permanently trips Knox** security
+- Includes **recovery options** for unbricking
+- Works with **stock N960U1UEU9FVG2** firmware
+
+---
+
 ## 🏆 **Why SM-N960U1 is Great for Custom ROMs**
 
 - **Factory unlocked bootloader** (no OEM unlock needed)
